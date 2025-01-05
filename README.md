@@ -32,7 +32,7 @@ A modern news aggregation system built with Python, featuring real-time scraping
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/news-aggregator.git
+git clone https://github.com/eraybulut34/news-aggregator.git
 cd news-aggregator
 ```
 
